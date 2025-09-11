@@ -15,7 +15,7 @@ model_option = st.sidebar.selectbox(
 )
 model_to_use = "gpt-4o-mini" if model_option == "GPT-4o Mini" else "gpt-4o"
 
-# Lab 3A: Basic streaming (已实现)
+# Lab 3A: Basic streaming 
 # Lab 3B: Message-based buffer
 st.sidebar.markdown("### Lab 3B: Message Buffer")
 buffer_size = st.sidebar.slider(
