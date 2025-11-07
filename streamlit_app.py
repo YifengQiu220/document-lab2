@@ -11,6 +11,7 @@ pages = {
         st.Page("lab4.py", title="Lab 4 — Vector DB Test"),  
         st.Page("lab5.py", title="Lab 5 — weather chatbot"),
         st.Page("lab6.py", title="Lab 6 — AI Fact-Checker "),
+        st.Page("lab8.py", title="Lab 8 — RAG and Re-Ranking"),
     ],
 }
 
